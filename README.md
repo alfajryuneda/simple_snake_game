@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Make sure you have a C compiler installed, like gcc.
+1. Make sure you have gcc installed (or anyother way of compiling C code).
 2. Clone this repository to your local machine.
 3. Run :
     ```shell
