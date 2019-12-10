@@ -11,6 +11,6 @@
 2. Clone this repository to your local machine.
 3. Run :
     ```shell
-    gcc main.c -o snake_game.exe
+    gcc snake_game.c -o snake_game.exe
     .\snake_game.exe
     ```
