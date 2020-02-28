@@ -1,4 +1,4 @@
-# Simple implementation of Snake Game in C
+# Simple implementation of Snake Game in pure C
 
 * A little program created in the beginning of my programming learning. Created for study purpose only.
 
